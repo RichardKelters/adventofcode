@@ -4,3 +4,10 @@ lbia*
 rcda*
 srta*
 
+
+dbg_*
+procore.*
+protrace.*
+*.ped
+
+debugger.pref
