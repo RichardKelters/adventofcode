@@ -1,0 +1,13 @@
+-cpinternal ISO8859-15
+-cpstream ISO8859-15
+-cpcoll Basic
+-cpcase Basic
+
+-d mdy
+-numsep 44
+-numdec 46
+
+-s 200000
+-l 4000
+-debugalert
+
